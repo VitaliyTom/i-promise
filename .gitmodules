@@ -1,0 +1,6 @@
+[submodule "i-promise-BE"]
+	path = i-promise-BE
+	url = https://github.com/VitaliyTom/i-promise-BE
+[submodule "i-promise-FE"]
+	path = i-promise-FE
+	url = https://github.com/VitaliyTom/i-promise-FE
